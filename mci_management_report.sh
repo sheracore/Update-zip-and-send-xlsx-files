@@ -2,8 +2,8 @@
 cd /home/mohamad/Desktop/rpat_opt_scrips/Java_code/MciManagementReport
 
 export rpatMciMailServer="mail.fwutech.com"
-export rpatMciMailUsername=""
-export rpatMciMailPassword=""
+export rpatMciMailUsername="emailuser"
+export rpatMciMailPassword="emailpass"
 export rpatMciMailRecipients="m.example@example.com"
 export rpatMciDatabaseHuawei="jdbc:postgresql://sample_ip:5433/rpat"
 export rpatMciDatabaseUserHuawei="User"
