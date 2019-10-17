@@ -5,7 +5,7 @@ This script execute sum queries on postgres DB and update sheets of existing xls
 
 Use the package manager [mvn](https://www.javahelps.com/2017/10/install-apache-maven-on-linux.html) to install.
 
-In the directory where the pom.xml exists.
+Run following commands in directory that the pom.xml exists.
 ```bash
 mvn install
 mvn package
