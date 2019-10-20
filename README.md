@@ -1,6 +1,6 @@
 #  Update Zip And Email Xlsx Files
 
-This script execute sum queries on postgres DB and update sheets of existing xlsx files by query values and zip all files in the one zip file and send it by email.
+This script execute some queries on postgres DB and update sheets of existing xlsx files by query values and zip all files in the one zip file and send it by email.
 ## Installation
 
 Use the package manager [mvn](https://www.javahelps.com/2017/10/install-apache-maven-on-linux.html) to install.
