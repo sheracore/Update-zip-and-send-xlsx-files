@@ -18,4 +18,4 @@ So it executes according to the variables and settings inside the
  bash script.
 
 ## License
-[lion](https://github.com/lion7472)
+[sheracore](https://github.com/lion7472)
